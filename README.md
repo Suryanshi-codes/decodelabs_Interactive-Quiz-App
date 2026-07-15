@@ -29,21 +29,6 @@ Interactive-Quiz-App/
 └── README.md
 ```
 
-## ▶️ How to Run
-
-1. Download or clone this repository.
-
-```
-git clone https://github.com/your-username/Interactive-Quiz-App.git
-```
-
-2. Open the project folder.
-
-3. Double-click **index.html**
-   or
-   Open it with **Live Server** in Visual Studio Code.
-
-4. Start answering the quiz questions.
 
 ## 📖 How It Works
 
